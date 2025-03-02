@@ -1,7 +1,7 @@
 title: Data Science Project Showcase
 author:
-  name: Abang Govin
-  email: govinder001@e.ntu.edu.sg
+  name: "Abang Govin"
+  email: "govinder001@e.ntu.edu.sg"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
