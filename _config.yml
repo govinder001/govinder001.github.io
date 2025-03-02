@@ -6,22 +6,16 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-Research consistently shows a positive correlation between access to urban greenery or nature and improved mental health. Studies have shown that people living in areas with more green spaces tend to report higher levels of overall well-being
-Reduced stress and anxiety
-Improved mood
-Enhanced cognitive function
-Physical activity promotion
+Research consistently shows a positive correlation between access to urban greenery or nature and improved mental health. Studies have shown that people living in areas with more green spaces tend to report higher levels of overall well-being, reduced stress and anxiety, improved mood, enhanced cognitive function, and increased physical activity.
   
-By combining environmental and mental health data, this project seeks to highlight how urban greenery can be a low-cost, natural intervention for improving mental wellbeing. Data-driven insights can help Policy makers, city planners, and mental health specialists to make informed decisions to foster healthier, greener, and more resilient urban communities.
-Therefore, the objective of this project is to classify mental health indicators for
+  By combining environmental and mental health data, this project seeks to highlight how urban greenery can be a low-cost, natural intervention for improving mental well-being. Data-driven insights can help policymakers, city planners, and mental health specialists make informed decisions to foster healthier, greener, and more resilient urban communities.
 
-Mental Health Monitoring - Detecting early distress signals in chatbots, apps, and crisis helplines.
-Social Media Sentiment Analysis - Tracking mental health trends through user posts.
-Workplace Well-being - Assessing employee sentiment to enhance workplace initiatives.
-Customer Support Screening - Prioritizing urgent mental health queries.
+  Therefore, the objective of this project is to classify mental health indicators for:
 
-These insights will help policymakers, city planners, and mental health professionals create healthier, greener urban spaces
-
+  - **Mental Health Monitoring**: Detecting early distress signals in chatbots, apps, and crisis helplines.
+  - **Social Media Sentiment Analysis**: Tracking mental health trends through user posts.
+  - **Workplace Well-being**: Assessing employee sentiment to enhance workplace initiatives.
+  - **Customer Support Screening**: Prioritizing urgent mental health queries.
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
